@@ -1,0 +1,23 @@
+git config --global user.name "Noor508"
+git config --global user.email "noorulaeen88@gmail.com"
+
+git init 
+if error then run this command . 
+git config --global init.defaultBranch main
+
+git status  -> no commit 
+now git add . (for tracking add all files in your folder)
+
+git status  ( changes to commit)
+
+git commit (ready to push )
+
+git remote add origin repo ssh "link"(if repo is created on website github)
+
+now 
+
+git push -u origin main
+ 
+
+HOW to branch a git ??
+
