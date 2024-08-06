@@ -21,3 +21,12 @@ git push -u origin main
 
 HOW to branch a git ??
 
+git branch ( show total no of branches)
+
+HOW TO ADD NEW BRANCH?
+
+git branch b1
+
+HOW TO SWITCH?
+
+git checkout b1 ( now head->b1 , main) (now any commit in b1 )
