@@ -36,3 +36,6 @@ git checkout b1 ( now head->b1 , main) (now any commit in b1 )
 here is clone project you can change on your local system and then push to remote repo.
 
 commit changes from remote server
+
+
+tutorial of GIT fetch 
